@@ -5,7 +5,7 @@
 tmp
 .fontcustom-manifest.json
 build
-dist
+# dist
 *.js.flow
 
 # Dependency directory
